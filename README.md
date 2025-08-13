@@ -1,8 +1,33 @@
-# React + Vite
+📩 React Chat App — Chat en Tiempo Real
+React Chat App es una aplicación de chat desarrollada con React que permite la comunicación instantánea entre usuarios mediante una API en tiempo real.
+En este proyecto aprendí a consumir APIs, manejar eventos en vivo y construir una interfaz moderna y responsiva para mensajería.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Tecnologías utilizadas
+React.js — Creación de la interfaz de usuario.
 
-Currently, two official plugins are available:
+JavaScript (ES6+) — Lógica y funcionalidades.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+WebSockets / Socket.io — Comunicación en tiempo real.
+
+Axios — Consumo de API.
+
+HTML5 y CSS3 — Estructura y estilos.
+
+Styled Components / Tailwind CSS (opcional, según implementación).
+
+Node.js (para el backend si aplica).
+
+Express.js (si el servidor está implementado en Node).
+
+✨ Funcionalidades
+🔹 Registro e inicio de sesión (si se implementa autenticación).
+
+🔹 Envío y recepción de mensajes en tiempo real.
+
+🔹 Lista de conversaciones activas.
+
+🔹 Notificación visual de mensajes nuevos.
+
+🔹 Diseño responsivo para dispositivos móviles y escritorio.
+
+🔹 Integración con API para almacenamiento y recuperación de mensajes.
