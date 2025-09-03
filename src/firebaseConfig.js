@@ -2,12 +2,12 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBM3GC0sSTaqPxf5__pnYIQhwjCw6DupJA",
-  authDomain: "chat-firebase-7e3f4.firebaseapp.com",
-  projectId: "chat-firebase-7e3f4",
-  storageBucket: "chat-firebase-7e3f4.firebasestorage.app",
-  messagingSenderId: "1096844213751",
-  appId: "1:1096844213751:web:497b81caad070842d6c2f2"
+  apiKey: "FAKE_API_KEY_1234567890ABCDEFGHIJKLMN",
+  authDomain: "mi-proyecto-ficticio.firebaseapp.com",
+  projectId: "mi-proyecto-ficticio",
+  storageBucket: "mi-proyecto-ficticio.appspot.com",
+  messagingSenderId: "123456789000",
+  appId: "1:123456789000:web:abcdef1234567890abcdef"
 };
 
 const app = initializeApp(firebaseConfig);
